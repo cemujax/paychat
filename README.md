@@ -52,6 +52,8 @@ $ npm run start
 
 ## 스크린샷
 
-![접속화면](./pay chat-1.JPG)
-![채팅방 리스트](./pay chat-2.JPG)
-![채팅방](./pay chat-3.JPG)
+![접속화면](./images/pay chat-1.jpg)
+
+![채팅방 리스트](./images/pay chat-2.jpg)
+
+![채팅방](./images/pay chat-3.jpg)

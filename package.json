@@ -1,0 +1,19 @@
+{
+  "name": "paychat",
+  "version": "1.0.0",
+  "description": "paychat chatting app",
+  "scripts": {
+    "build": "cd paychat-client && npm i && npm run build && cd ../paychat-server && npm i ",
+    "start": "cd paychat-server && npm run start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "Socket.io",
+    "Vue.js",
+    "Vuetify"
+  ],
+  "author": "cemujax <cemujax@gmail.com>",
+  "license": "ISC"
+}

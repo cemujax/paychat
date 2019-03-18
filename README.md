@@ -52,8 +52,8 @@ $ npm run start
 
 ## 스크린샷
 
-![접속화면](./images/pay chat-1.jpg)
+![접속화면](https://raw.githubusercontent.com/cemujax/paychat/master/images/pay%20chat-1.jpg)
 
-![채팅방 리스트](./images/pay chat-2.jpg)
+![채팅방 리스트](https://raw.githubusercontent.com/cemujax/paychat/master/images/pay%20chat-2.jpg)
 
-![채팅방](./images/pay chat-3.jpg)
+![채팅방](https://raw.githubusercontent.com/cemujax/paychat/master/images/pay%20chat-3.jpg)

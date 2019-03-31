@@ -1,6 +1,7 @@
 # Pay Chat
 
 채팅 어플리케이션 사전과제
+![](https://i.imgur.com/0GUmeaF.jpg?1)
 
 기능
 
@@ -21,12 +22,18 @@ web socket 양방향 통신을 위해 socket.io를 사용해 하나의 클라이
 
 ## 기술스택
 
-- Node.js
-- Express
-- Socket.io
+### Frontend
+
 - Vue.js
 - Vuex
 - Vuetify
+- Socket.io
+
+### Server
+
+- Node.js
+- Express
+- Socket.io
 
 ## 프로젝트 빌드
 
@@ -49,11 +56,3 @@ $ npm run start
 ```
 
 > 실행 후 http://localhost:3000/ 접속
-
-## 스크린샷
-
-![접속화면](https://raw.githubusercontent.com/cemujax/paychat/master/images/pay%20chat-1.jpg)
-
-![채팅방 리스트](https://raw.githubusercontent.com/cemujax/paychat/master/images/pay%20chat-2.jpg)
-
-![채팅방](https://raw.githubusercontent.com/cemujax/paychat/master/images/pay%20chat-3.jpg)
